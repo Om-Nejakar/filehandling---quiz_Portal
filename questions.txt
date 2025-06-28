@@ -1,0 +1,59 @@
+1. What is the capital of France?
+a) Berlin
+b) London
+c) Paris
+d) Rome
+
+2. Which language is used for web development?
+a) Python
+b) Java
+c) JavaScript
+d) C
+
+3. What is 2 + 2?
+a) 3
+b) 4
+c) 5
+d) 6
+
+4. Which planet is known as the Red Planet?
+a) Earth
+b) Mars
+c) Jupiter
+d) Saturn
+
+5. Who wrote 'Romeo and Juliet'?
+a) Charles Dickens
+b) J.K. Rowling
+c) William Shakespeare
+d) Mark Twain
+
+6. What does CPU stand for?
+a) Central Processing Unit
+b) Computer Personal Unit
+c) Central Peripheral Unit
+d) Central Processor Utility
+
+7. Which data structure uses FIFO order?
+a) Stack
+b) Queue
+c) Tree
+d) Graph
+
+8. Which is not a programming language?
+a) HTML
+b) Python
+c) Java
+d) C++
+
+9. What is the boiling point of water?
+a) 90°C
+b) 95°C
+c) 100°C
+d) 105°C
+
+10. Which company developed Windows OS?
+a) Apple
+b) Microsoft
+c) IBM
+d) Google
